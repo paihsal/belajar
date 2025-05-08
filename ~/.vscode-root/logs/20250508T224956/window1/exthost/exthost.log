@@ -1,0 +1,11 @@
+2025-05-08 22:50:05.133 [info] Extension host with pid 18209 started
+2025-05-08 22:50:05.133 [info] Skipping acquiring lock for /var/www/belajar/~/.vscode-root/User/workspaceStorage/afe57bc0dd8897d53609831771d54175.
+2025-05-08 22:50:05.219 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-08 22:50:05.368 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-05-08 22:50:05.380 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-08 22:50:05.473 [info] Eager extensions activated
+2025-05-08 22:50:05.498 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-08 22:50:05.506 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-08 22:50:07.861 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-05-08 22:50:08.497 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-08 22:50:10.241 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
