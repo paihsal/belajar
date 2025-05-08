@@ -1,3 +1,0 @@
-2025-05-08 22:50:05.491 [info] Log level: Info
-2025-05-08 22:50:09.034 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-05-08 22:50:21.149 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for paihsal/belajar: Error: No GitHub authentication session available.
