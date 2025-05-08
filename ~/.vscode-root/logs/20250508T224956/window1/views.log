@@ -13,3 +13,4 @@
 2025-05-08 22:50:05.230 [info] Removed views:workbench.debug.breakPointsView,workbench.debug.callStackView,workbench.debug.watchExpressionsView,workbench.debug.variablesView from workbench.view.debug
 2025-05-08 22:50:05.231 [info] Added views:workbench.debug.welcome in workbench.view.debug
 2025-05-08 22:50:08.399 [info] Added views:workbench.scm.history in workbench.view.scm
+2025-05-08 22:53:40.126 [info] Removed views:workbench.scm.history from workbench.view.scm
