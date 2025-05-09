@@ -8,23 +8,63 @@
         
     </head>
     <body>
-        <h1 style="text-align: center;">Coba isi nama mu</h1>
-        <fieldset>
-            <label for="name">Nama: </label>
-            <input type="text" name="name" /><br>
-            <label for="address">Alamat: </label>
-            <input type="text" name="address" /><br>
-
-            <label for="m"></label>
-        </fieldset>
+        <form>
+            <fieldset>
+              <legend>Isi Pertanyaan dibawah ini</legend>
+      
+              <div>
+                <label>Nama: </label>
+                <input type="text" name="nama" />
+              </div>
+      
+              <div>
+                <p>Jenis Kelamin:</p>
+                <input type="radio" name="jenis_kelamin"value="laki-laki" />
+                <label>Laki - Laki</label>
+                <input type="radio" name="jenis_kelamin" value="perempuan" />
+                <label>Perempuan</label>
+              </div>
+      
+              <div>
+                <p>Pelajaran Yang disukai dari ke 3 ini:</p>
+                <input type="checkbox" name="MTK" /> MTK
+                <input type="checkbox" name="PKN" /> PKN
+                <input type="checkbox" name="IPS" /> IPS
+              </div>
+      
+              <div>
+                <p>Tempat tinggal:</p>
+                <select name="Tempat tinggal">
+                  <option value="Bogor"Bogor></option>
+                  <option value="Bandung"Bandung></option>
+                  <option value="Jakarta"Jakarta></option>
+                  <option value="Semarang"Semarang></option>
+                  <option value="Dah ah cape"Dah ah cape></option>
+                </select>
+              </div>
+              <div>
+      
+              <div>
+                <p>Apa pendapat anda dengan website saya:</p>
+                <textarea
+                  rows="10"
+                  cols="60"
+                  placeholder="Tulis jawaban Anda di sini"
+                  name="pengalaman"
+                ></textarea>
+              </div>
+      
+              <input type="submit" value="Submit" />
+            </fieldset>
+          </form>
             
             <ul>
                 <li><a href="https://mrizk.my.id/">Website Kaka</a></li>
                 <li><a href="https://skilvul.com/">Tempat saya Belajar</a></li>
                 <li><a href="https://github.com/paihsal">Jangan lupa follow</a></li>
             </ul>
-        <footer>
+            <footer>
                 Copyrigright By Paihsal
-        </footer>
+            </footer>
     </body>
 </html>
